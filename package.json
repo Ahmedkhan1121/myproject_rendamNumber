@@ -1,0 +1,23 @@
+{
+  "name": "ahmed-raza-cli-number-guessing",
+  "version": "1.0.2",
+  "description": "this is cli guessing game",
+  "type": "module",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ahmed-raza-cli-number-guessing": "^1.0.0",
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
